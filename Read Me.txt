@@ -1,0 +1,47 @@
+                                                     
+
+                                                          WEBSITE= SOCCER LEAGUE!!
+
+*First of all we have #Home section in which we have #Match Countdown of #Match Soccer #FIFA WORLD CUP MATCH 2026 UPCOMING!
+
+*Secondly we have #Gallery Icon in which we are showing #Images of different Players Achivements in different countries and then we are showing 
+#Owl-Carousel in which we are showing #FEFA WORLD CUP wining Players according to diffrent countries and different years images!
+
+*We also add #Matches Icon,by clicking on that icon it will move to #Matches page and Details! 
+
+*We also add a #Logo on #Navbar!
+
+*Then we have #Top Players Page in which we are showing Players Achivements!
+
+*Then we made #Cards in which we are showing #Top Football Players images and also Give Details about that and also made a #Read More Button!
+
+*And then #Hovering on #Cards Players images details is Showed to you by clicking on #Read more Button!
+
+*Then in #Cards by clicking on #Read More Button the #Modal Box is Showed on website and we are also Showing a #Close button to close the #Modal Box!
+
+*On the ending of #Cards we made a #See More Button by clicking on that Button More Players images are Showed on our #Soccer League Website!
+
+*Then we have #Feedback Page, Whoever can open this Page can esaily give our Website Feedback!
+
+*If any User,can fill all the columns of feedback,the email they enter on feeback,is saved to that email!
+
+*Then we made #Contact Us Page,in which if any User can fill all columns accurately then they can esaily contact and all the material is saved to #Local Storage!
+
+*We Fetched data #JSON into #Html in the phase of #1modal box (CRISTIANO RONALDO).
+
+*If any user can open #JSON data on google chrome then this will not work.It will only work on open with #Live Server!
+
+*All website are Hard coded except 1 modal box.
+
+*Then We made a #Footer at Home Page in which you can use rows and columns to organize your footer content!
+
+*Then at #Footer we are showing Products Names,Contact like Adress,Gmail,Contact No.,Email Fax and we are also showing links like,Facebook,Twitter,Google,Instagram,LinkedIn,and Github!
+
+*The links we add on #Footer,when a User click on any link he/she is redirected to #Official Website of that link!
+
+PROTOTYPING:
+            Our Whole Website is Designed on #Figma!
+
+
+
+
